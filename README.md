@@ -6,7 +6,7 @@ This key frame extraction project is to extract all the unique and high quality 
 
 All the required libraries are mentioned in requirement.txt file. 
 
-Use pip install -r requirement.txt to install all the requirements.
+Use pip install -r requirements.txt to install all the requirements.
 
 # How to run the code:
 
